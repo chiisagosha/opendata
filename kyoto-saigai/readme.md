@@ -4,7 +4,7 @@
 * 2019.9 小さ子社発行
 * ISBN978-4-909782-03-8
 * 本体価格1,600円
-* 書誌情報 <a href = "https://www.chiisago.jp/books/?code=9784909782038" target="_new">https://www.chiisago.jp/books/?code=9784909782038</a>
+* 書誌情報 <a href = "https://www.chiisago.jp/books/?code=9784909782038" target='_blank'>https://www.chiisago.jp/books/?code=9784909782038</a>
 * 特設ページ <a href = "https://www.chiisago.jp/kyoto-saigai/" target="_blank">https://www.chiisago.jp/kyoto-saigai/</a>
 
 

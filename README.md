@@ -9,6 +9,7 @@ Creative Commons — 表示 4.0 国際 — CC BY 4.0
 ライセンスで公開しています。
 
 
+
 ■収録一覧■
 
 ## kyoto-saigai/locations_kyoto-saigai.csv

@@ -14,3 +14,6 @@ Creative Commons — 表示 4.0 国際 — CC BY 4.0
 
 ## kyoto-saigai/locations_kyoto-saigai.csv
 ### 『京都の災害をめぐる』掲載の地点データ一覧・本文抄録
+
+## kyoto-saigai/locations_kyoto-saigai.json
+### 『京都の災害をめぐる』掲載の地点データ一覧・本文抄録 geojson形式
